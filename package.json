@@ -1,0 +1,9 @@
+{
+  "name": "site",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.2.0"
+  }
+}
